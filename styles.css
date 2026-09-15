@@ -456,9 +456,7 @@ nav a.active {
     padding: 0 6px;
 }
 
-/* -------------------------
-   Main content
-------------------------- */
+
 
 .page {
     width: calc(100% - 182px);
@@ -611,7 +609,7 @@ footer span {
     min-height: 100vh;
     background-color: white;
 }
-/* Navigation */
+/* Nav */
 
 .travel-page .main-nav {
     display: flex;
@@ -630,9 +628,7 @@ footer span {
 }
 
 
-/* ========================================
-   THREE COLUMN TRAVEL LAYOUT
-======================================== */
+/* THREE column layout */
 
 .travel-grid {
     display: grid;
@@ -682,9 +678,6 @@ footer span {
 }
 
 
-/* ========================================
-   CENTER IMAGE
-======================================== */
 
 .travel-image {
     width: 100%;
@@ -705,9 +698,7 @@ footer span {
 }
 
 
-/* ========================================
-   CONTACT BUTTON
-======================================== */
+
 
 .contact-button {
     display: block;
@@ -734,10 +725,6 @@ footer span {
 }
 
 
-/* ========================================
-   BOTTOM HOME
-======================================== */
-
 .travel-footer {
     width: 416px;
 
@@ -748,9 +735,6 @@ footer span {
 
 
 
-/* ========================================
-   MOBILE
-======================================== */
 
 @media (max-width: 700px) {
 
@@ -1108,7 +1092,7 @@ footer span {
 }
 
 
-/*PHONE*/
+
 
 @media (max-width: 800px) {
 
@@ -1159,7 +1143,6 @@ footer span {
 }
 
 
-/* Maps section */
 
 .maps-section {
     width: 90%;
@@ -1168,7 +1151,6 @@ footer span {
 }
 
 
-/* Page heading */
 
 .maps-section h1 {
     font-size: 40px;
@@ -1176,7 +1158,6 @@ footer span {
 }
 
 
-/* Main map */
 
 .main-map {
     width: 75%;
@@ -1194,7 +1175,6 @@ footer span {
 }
 
 
-/* Map links */
 
 .map-links {
     display: grid;
@@ -1218,7 +1198,7 @@ footer span {
 }
 
 
-/* Book button */
+
 
 .maps-page .book-now {
     margin: 55px auto 60px;
@@ -1258,9 +1238,7 @@ footer span {
 }
 
 
-/* ========================================
-   FAQ PAGE
-======================================== */
+/*FAQ PAGE*/
 
 .faq-page {
     min-height: 100vh;
